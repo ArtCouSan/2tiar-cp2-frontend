@@ -72,6 +72,8 @@ with tab1:
                                    mime='text/csv')
         else:
             st.warning('Arquivo CSV não foi carregado')
+    else:
+        st.error('Esta opção será desenvolvida no item 1 e 2')
 
 with tab2:
     if database == 'CSV' and file:
