@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-import pickle
 from pycaret.classification import *
 
 # Configuração inicial da página
