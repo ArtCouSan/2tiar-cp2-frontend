@@ -7,3 +7,4 @@ numba
 pycaret
 scikit-learn
 xgboost
+seaborn
